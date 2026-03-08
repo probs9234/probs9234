@@ -91,10 +91,10 @@
 <div align="center">
   <p>
     <a href="https://github.com/probs9234">
-      <img src="https://github-readme-stats.vercel.app/api?username=probs9234&show_icons=true&theme=tokyonight" width="48%" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/probs9234?cardType=level-stats&theme=tokyonight" width="48%" />
     </a>
     <a href="https://github.com/probs9234">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probs9234&layout=compact&theme=tokyonight" width="48%" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/probs9234?cardType=top-languages&theme=tokyonight" width="48%" />
     </a>
   </p>
 </div>
