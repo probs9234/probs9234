@@ -1,6 +1,5 @@
-<!-- Header with cool cybersecurity/hacker GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnk5GdtHmM/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #00e5ff;" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/PokemonDataGraber/master/img/header.gif" width="100%" style="border-radius: 12px; border: 2px solid #00e5ff;" />
 </div>
 <br />
 <h1 align="center">
@@ -33,7 +32,7 @@
     </td>
     <td width="40%" align="center">
       <!-- 3D Hologram / Tech GIF -->
-      <img src="https://media.giphy.com/media/iIWW4BMMNCwZmAij00/giphy.gif" width="85%" alt="3D coding GIF" style="border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="85%" alt="3D coding GIF" />
     </td>
   </tr>
 </table>
