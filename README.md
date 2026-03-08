@@ -1,94 +1,114 @@
+<!-- Header with cool cybersecurity/hacker GIF -->
 <div align="center">
-  <img src="https://capsules-rendition.vercel.app/api?type=waving&color=00e5ff&height=250&section=header&text=Hi,%20I'm%20Priyanshu!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnk5GdtHmM/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #00e5ff;" />
 </div>
-<h2 align="center">Class 12 Student & Tech Enthusiast | Python • Cybersecurity • AI</h2>
-<p align="center">
-  Passionate about exploring complex technologies, building intelligent systems, and continuously learning new skills. Currently focused on deep learning, cybersecurity, and full-stack development.
-</p>
 <br />
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h1 align="center">
+  Hi there, I'm Priyanshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" style="vertical-align: middle;"/>
+</h1>
+<h3 align="center">Cybersecurity Explorer • AI Enthusiast • Developer</h3>
+<div align="center">
+  <!-- Cool neon typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=Python+Developer;Cybersecurity+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,tensorflow,postman,linux,git,github&perline=10" />
+  <a href="https://github.com/probs9234">
+    <!-- View counter badge -->
+    <img src="https://komarev.com/ghpvc/?username=probs9234&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="probs9234" />
   </a>
 </p>
-<br />
-<h3 align="center">🚀 Featured Projects</h3>
-<br />
+<hr style="border: 1px solid #1a1b26;" />
+<!-- 3D style layout with table -->
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="60%">
+      <h2>🌌 About Me</h2>
+      <ul>
+        <li>🎓 <b>Class 12 Student</b> with a deep passion for exploring complex technologies.</li>
+        <li>🛡️ Focused on <b>Cybersecurity</b>, <b>AI</b>, and <b>System Architecture</b>.</li>
+        <li>💻 Currently building <b>Aegis-Network-IDS</b> and <b>Nexus</b>.</li>
+        <li>🚀 Always learning: Deep Learning, System Scaling, and Python magic.</li>
+        <li>🤝 Looking to collaborate on open-source cybersecurity and AI tools!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- 3D Hologram / Tech GIF -->
+      <img src="https://media.giphy.com/media/iIWW4BMMNCwZmAij00/giphy.gif" width="85%" alt="3D coding GIF" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+<h2>🛠️ My Arsenal (Tech Stack)</h2>
+<p align="center">
+  <!-- Interactive-looking rounded skill icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,ts,tensorflow,linux,kali,git,github,vscode,bash&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+<h2>� Featured Projects</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid rgba(0, 229, 255, 0.2); padding: 15px; border-radius: 8px;">
+      <h3>🛡️ Aegis-Network-IDS</h3>
+      <p>An AI-powered Intrusion Detection System capturing real-time network packets and using TensorFlow to mitigate anomalies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+      <a href="https://github.com/probs9234/Aegis-Network-IDS"><b>View Repository 🔗</b></a>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid rgba(0, 229, 255, 0.2); padding: 15px; border-radius: 8px;">
+      <h3>☁️ Nexus</h3>
+      <p>Distributed Cloud Storage system built with file sharding and robust AES-256 encryption.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <a href="https://github.com/probs9234/nexus"><b>View Repository 🔗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid rgba(0, 229, 255, 0.2); padding: 15px; border-radius: 8px;">
+      <h3>✨ Dr-Strange-Ring-OpenCV</h3>
+      <p>Hand Gesture Magic using OpenCV. Tracks hand landmarks to render a glowing, animated magic ring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+      <a href="https://github.com/probs9234/Dr-Strange-Ring-OpenCV"><b>View Repository 🔗</b></a>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid rgba(0, 229, 255, 0.2); padding: 15px; border-radius: 8px;">
+      <h3>🎣 PhisGuard</h3>
+      <p>AI-Powered Scam & Phishing Analyzer to detect malicious links and protect users online.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Model-000000?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <a href="https://github.com/probs9234/PhisGuard-"><b>View Repository 🔗</b></a>
+    </td>
+  </tr>
+</table>
+<h2>📈 Statistics & Contributions</h2>
+<!-- Reliable layouts for stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🛡️ Aegis-Network-IDS</h3>
-        <p align="center">An AI-powered Intrusion Detection System capturing real-time network packets and using TensorFlow to mitigate anomalies.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/probs9234/Aegis-Network-IDS">View Repository 🔗</a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">☁️ Nexus</h3>
-        <p align="center">Distributed Cloud Storage system built with file sharding and robust AES-256 encryption.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/probs9234/nexus">View Repository 🔗</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">✨ Dr-Strange-Ring-OpenCV</h3>
-        <p align="center">Hand Gesture Magic using OpenCV. Tracks hand landmarks to render a glowing, animated magic ring.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/probs9234/Dr-Strange-Ring-OpenCV">View Repository 🔗</a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎣 PhisGuard</h3>
-        <p align="center">AI-Powered Scam & Phishing Analyzer to detect malicious links and protect users online.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI_Model-000000?style=flat-square&logo=openai&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/probs9234/PhisGuard-">View Repository 🔗</a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/probs9234">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=probs9234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6" />
+  </a>
+  <a href="https://github.com/probs9234">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probs9234&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6" />
+  </a>
 </div>
 <br />
-<h3 align="center">📈 GitHub Stats</h3>
+<div align="center">
+  <a href="https://github.com/probs9234">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=probs9234&theme=tokyonight&hide_border=true&title_color=00e5ff&background=1a1b26&ring=00e5ff&fire=00e5ff&sideNums=a9b1d6&sideLabels=a9b1d6" />
+  </a>
+</div>
+<h2>💼 Connect With Me</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=probs9234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff&bg_color=1a1b26" alt="probs9234's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=probs9234&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff&sideNums=a9b1d6&sideLabels=a9b1d6&ring=00e5ff&fire=00e5ff&currStreakLabel=a9b1d6&currStreakNum=a9b1d6" alt="probs9234's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probs9234&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" />
-</p>
-<br />
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-  <a href="https://your-linkedin-link-here.com" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link-here.com" target="_blank">
+  <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-<br />
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=435&lines=I+build+cool+things!;Turning+coffee+into+code;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</div>
