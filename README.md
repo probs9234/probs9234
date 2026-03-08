@@ -91,17 +91,17 @@
 <div align="center">
   <p>
     <a href="https://github.com/probs9234">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/probs9234?cardType=level-stats&theme=tokyonight" width="48%" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/probs9234?cardType=level-stats&theme=monokai&hideBorder=true" width="48%" />
     </a>
     <a href="https://github.com/probs9234">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/probs9234?cardType=top-languages&theme=tokyonight" width="48%" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/probs9234?cardType=top-languages&theme=monokai&hideBorder=true" width="48%" />
     </a>
   </p>
 </div>
 <br />
 <div align="center">
   <a href="https://github.com/probs9234">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=probs9234&theme=tokyonight" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=probs9234&theme=monokai&hide_border=true&background=272822" width="100%" />
   </a>
 </div>
 <h2>💼 Connect With Me</h2>
