@@ -1,16 +1,44 @@
-## Hi there 👋
-
-<!--
-**probs9234/probs9234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsules-rendition.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Priyanshu!%20%F0%9F%91%8B&fontSize=50&animation=twinkling" />
+</div>
+<h3 align="center">Class 12 Student & Tech Enthusiast | Python • Cybersecurity • AI</h3>
+<p align="center">
+  Passionate about exploring complex technologies, building intelligent systems, and continuously learning new skills. Currently focused on deep learning, cybersecurity, and full-stack development.
+</p>
+<br />
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+<br />
+## 🚀 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Aegis-Network-IDS](https://github.com/probs9234/Aegis-Network-IDS)** | 🛡️ An AI-powered Intrusion Detection System that captures real-time network packets and uses TensorFlow deep learning to mitigate anomalies. | `Python`, `TensorFlow` |
+| **[Nexus](https://github.com/probs9234/nexus)** | ☁️ Distributed Cloud Storage with file sharding and AES-256 encryption. | `Python`, `Node.js` |
+| **[Dr-Strange-Ring-OpenCV](https://github.com/probs9234/Dr-Strange-Ring-OpenCV)** | ✨ Hand Gesture Magic using OpenCV. Tracks hand landmarks to render a glowing, animated magic ring inspired by Dr. Strange. | `Python`, `OpenCV` |
+| **[PhisGuard](https://github.com/probs9234/PhisGuard-)** | 🎣 AI-Powered Scam & Phishing Analyzer to detect malicious links and protect users online. | `HTML/CSS/JS`, `AI` |
+<br />
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=probs9234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff&bg_color=1a1b26" alt="probs9234's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=probs9234&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff&sideNums=a9b1d6&sideLabels=a9b1d6&ring=00e5ff&fire=00e5ff&currStreakLabel=a9b1d6&currStreakNum=a9b1d6" alt="probs9234's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probs9234&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6" alt="Top Languages" />
+</div>
+<br />
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+</p>
+---
+<div align="center">
+  <i>"I build cool things that solve real problems!"</i>
+</div>
