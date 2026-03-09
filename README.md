@@ -87,21 +87,42 @@
   </tr>
 </table>
 <h2>📈 Statistics & Contributions</h2>
-<!-- Reliable layouts for stats -->
+<!-- Profile Summary Cards - Dark Theme -->
 <div align="center">
-  <p>
-    <a href="https://github.com/probs9234">
-      <img src="https://github-readme-stats.vercel.app/api?username=probs9234&show_icons=true&bg_color=1a1b26&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff&hide_border=true" width="48%" />
-    </a>
-    <a href="https://github.com/probs9234">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probs9234&layout=compact&bg_color=1a1b26&title_color=00e5ff&text_color=a9b1d6&hide_border=true" width="48%" />
-    </a>
-  </p>
+  <a href="https://github.com/probs9234">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=probs9234&theme=tokyonight" width="95%" alt="Profile Details" />
+  </a>
 </div>
 <br />
 <div align="center">
   <a href="https://github.com/probs9234">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=probs9234&background=1a1b26&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff&ring=00e5ff&fire=00e5ff&sideNums=a9b1d6&sideLabels=a9b1d6&hide_border=true" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=probs9234&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/probs9234">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=probs9234&theme=tokyonight" width="48%" alt="Top Languages" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/probs9234">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=probs9234&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time" />
+  </a>
+  <a href="https://github.com/probs9234">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=probs9234&theme=tokyonight" width="48%" alt="Repos per Language" />
+  </a>
+</div>
+<br />
+<!-- Streak Stats -->
+<div align="center">
+  <a href="https://github.com/probs9234">
+    <img src="https://streak-stats.demolab.com?user=probs9234&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+  </a>
+</div>
+<br />
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <a href="https://github.com/probs9234">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=probs9234&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
   </a>
 </div>
 <h2>💼 Connect With Me</h2>
