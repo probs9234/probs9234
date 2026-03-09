@@ -118,13 +118,6 @@
     <img src="https://streak-stats.demolab.com?user=probs9234&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
   </a>
 </div>
-<br />
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <a href="https://github.com/probs9234">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=probs9234&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-  </a>
-</div>
 <h2>💼 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/coder-probs" target="_blank">
