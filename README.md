@@ -126,7 +126,7 @@
   <a href="https://www.instagram.com/coder_probs?igsh=ZTQybmJzcmU2ejBu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://portfolio-lac-pi-87.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
